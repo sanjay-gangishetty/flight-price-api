@@ -46,7 +46,6 @@ The flight prices are fetched from a JSON file located at flightDetails.json. Th
 License: 
 This project is licensed under the MIT License.
 
-Feel free to modify the content and formatting of the README file as per your needs.
 
 
    
