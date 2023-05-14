@@ -1,0 +1,44 @@
+[
+  {
+    "source": "Delhi",
+    "destination": "Jaipur",
+    "date": "2023-04-15",
+    "airline": "Indigo",
+    "price": "₹1,614"
+  },
+  {
+    "source": "Delhi",
+    "destination": "Jaipur",
+    "date": "2023-04-15",
+    "airline": "AirAsia",
+    "price": "₹1,869"
+  },
+  {
+    "source": "Delhi",
+    "destination": "Hyderabad",
+    "date": "2023-04-16",
+    "airline": "AirAsia",
+    "price": "₹1,569"
+  },
+  {
+    "source": "Delhi",
+    "destination": "Hyderabad",
+    "date": "2023-04-16",
+    "airline": "Deccan",
+    "price": "₹1,769"
+  },
+  {
+    "source": "Delhi",
+    "destination": "Hyderabad",
+    "date": "2023-04-16",
+    "airline": "Soverign",
+    "price": "₹1,809"
+  },
+  {
+    "source": "Delhi",
+    "destination": "Jaipur",
+    "date": "2023-04-15",
+    "airline": "Vistara",
+    "price": "₹2,133"
+  }
+]
